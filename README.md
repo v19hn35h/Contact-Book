@@ -84,4 +84,4 @@ For questions or feedback, you can reach me at [v19hn35h@gmail.com].
 
 **GitHub**: [https://github.com/yourusername/contact-book](https://github.com/v19hn35h/Contact-Book)
 
-**edX**: [Vighnesh2005]
+**edX**: Vighnesh2005
