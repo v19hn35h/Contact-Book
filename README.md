@@ -24,7 +24,7 @@ The **Contact Book** is a Python application developed as my final project for t
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/contact-book.git
+    git clone https://github.com/v19hn35h/Contact-Book.git
     ```
 
 2. **Navigate to the Project Directory**:
