@@ -30,7 +30,7 @@ The **Contact Book** is a Python application developed as my final project for t
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd contact-book
+    cd Contact-Book
     ```
 
 3. **Install Dependencies**:
