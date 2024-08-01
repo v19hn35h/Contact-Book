@@ -78,7 +78,3 @@ Contributions are welcome! If you want to contribute to the Contact Book project
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-**GitHub**: [https://github.com/v19hn35h/Contact-Book](https://github.com/v19hn35h/Contact-Book)
-
-**edX**: Vighnesh2005
