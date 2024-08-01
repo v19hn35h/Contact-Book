@@ -1,5 +1,7 @@
 # Contact Book
 
+#### Video Demo: https://youtu.be/L4WTK8KFGFM?feature=shared
+
 ## Project Overview
 The **Contact Book** is a Python application developed as my final project for the CS50P course designed to manage personal contacts. It provides a command-line interface to add, view, search, edit, and delete contacts using an SQLite database.
 
